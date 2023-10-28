@@ -5,7 +5,7 @@ My name is Adam Riddle
 
 My name italicized is *Adam Riddle*
 
-:)
+😂⛺
 
 this is my first ==Real Coding Class==
 
